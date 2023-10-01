@@ -1,0 +1,5 @@
+'  Interfaces & Price Feeds '
+-----------------------------
+Here when the fund function's .value actually comes true for the condition then how to convert-
+-then we create a function GetPrice()
+
